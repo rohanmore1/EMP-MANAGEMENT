@@ -1,0 +1,12 @@
+node_modules/
+dist/
+build/
+env/
+.env
+*.bak
+.vscode/
+.DS_Store
+employee-app/.git_backup/
+employee-app/node_modules/
+employee-app/.angular/
+employee-app/dist/
